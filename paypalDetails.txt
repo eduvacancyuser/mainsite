@@ -1,0 +1,23 @@
+“username : ankurc@neuronsolutions.com
+password  : Password01”
+
+
+PAYPAL_SANDBOX_API_USERNAME=rahul-merchant_api1.neuronsolutions.com
+PAYPAL_SANDBOX_API_PASSWORD=K2QZTG7JFQNQPMVM
+PAYPAL_SANDBOX_API_SECRET=AJ4isA1aWJKTUW3AG9UQAwCsqD4OAERmplwJsiaDZ27KcFsjvKvt0sYh
+
+
+FaceBook
+ID: mark15harries@gmail.com
+Password: codientc123
+
+
+Google
+ID: mark15harries@gmail.com
+Password: codientc123
+
+Linkedin
+ID: kim15willimas@gmail.com
+Password: codiantc123
+Key: 81teclqm0vgise
+secret: q1yriBWN6VROclfo
